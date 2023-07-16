@@ -12,7 +12,7 @@ The Vehicle Agency project is a Java system with Memento, Abstract Factory, Obse
 
 ## Usage
 
-1. Clone the repository: `git clone https://github.com/Bar-Levi/vehicle-agency.git`
+1. Clone the repository: `git clone https://github.com/RonyBubnovsky/vehicle-agency.git`
 2. Import the project into your preferred Java IDE.
 3. Build and compile the project.
 4. Run the main application file.
